@@ -11,7 +11,7 @@
 
 ## 📋 Εγκατάσταση και Χρήση
 
-### 1. **Clone repository**:
-Αν θέλεις να κατεβάσεις το script στον υπολογιστή σου, χρησιμοποίησε την εντολή:
+###  **Clone repository**:
+Χρησιμοποίησε την εντολή:
 ```bash
 git clone https://github.com/koumarianos/password-generator.git
